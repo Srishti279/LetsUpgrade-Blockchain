@@ -1,0 +1,34 @@
+1) What is your understanding of blockchain?
+
+Blockchain is a mixture of technology: distributed database and cryptocurrency where the information is
+i)verifiable
+ii)unchangable
+iii)tamper-proof
+
+2) What is the core problem blockchain trying to solve?
+
+Core problems with the internet are:
+i) authenticity
+ii) security
+iii) need for powerful third party for trust.
+
+3) What are the new features which blockchain will give you?
+
+Blockchain provides:
+i) verifiability
+ii) immutability
+iii) tamper-proof
+iv)ledger
+v) permanent
+
+4) What all thing does a block contain?
+
+A block contains:
+- Block number
+- Transanction record (data)
+- Previous block record (SHA)
+- Mining key
+
+5)How is the verifiability of Blockchain is been attained?
+
+if one block of data is changed other peers asks the changed block to correct itself therefore verifiability is attained.
